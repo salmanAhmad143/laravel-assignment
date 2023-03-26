@@ -39,6 +39,7 @@ class LoginController extends Controller
      */
     public function __construct()
     {
+        parent::__construct();
         $this->middleware('guest')->except('logout');
     }
 
@@ -46,7 +47,7 @@ class LoginController extends Controller
     {
         $credentials = $request->only('email', 'password');
         // Call the external API to authenticate the user
-        $response = Http::post("https://symfony-skeleton.q-tests.com/api/v2/token", [
+        $response = $this->client->post("{$this->apiUrl}/token", [
             'email' => $credentials['email'],
             'password' => $credentials['password'],
         ]);
