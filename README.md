@@ -24,6 +24,8 @@ Now open another command window and now run the below command-
 
 ## Screenshots
 
-**1.** ![App Screenshot](./public/screenshot-1.png)
+**1.** ![App Screenshot](./public/screenshot.png)
 
-**2.** ![](./public/screenshot-1.png)
+**2.** ![App Screenshot](./public/screenshot-1.png)
+
+**3.** ![](./public/screenshot-2.png)
