@@ -1,6 +1,9 @@
 # Laravel Assignment Test Project
 To setup the project you need to follow these simple steps-
 
+## Requirement
+
+Minimum PHP 8.1 or greater version required
 
 ## Running Project
 
