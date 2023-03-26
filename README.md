@@ -10,7 +10,7 @@ To run this project at your local system you need to clone or download the the p
     composer install
 ```
 
-Once the installation has been completed then run below command-
+Once the installation has been completed then run below command and keep it running-
 
 ```bash
     npm install && npm run dev
