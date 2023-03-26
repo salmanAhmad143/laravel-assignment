@@ -24,6 +24,7 @@ Now open another command window and now run the below command-
 ```bash
     php artisan serve
 ```
+It will complite your project return your a url of your project. Now, Go to your web browser, type the given URL and view the app output: http://localhost:8000/
 
 ## Screenshots
 
