@@ -4,7 +4,7 @@ To setup the project you need to follow these simple steps-
 
 ## Running Project
 
-To run this project at your local system first navigate to your project folder and run the following command
+To run this project at your local system you need to clone or download the the project at your local system and then navigate to your project folder and run the following command
 
 ```bash
     composer install
@@ -21,3 +21,9 @@ Now open another command window and now run the below command-
 ```bash
     php artisan serve
 ```
+
+## Screenshots
+
+**1.** ![App Screenshot](./public/screenshot-1.png)
+
+**2.** ![](./public/screenshot-1.png)
