@@ -35,4 +35,4 @@ It will complite your project and give you a url of your project. Now, Go to you
 
 **2.** ![App Screenshot](./public/screenshot-1.png)
 
-**3.** ![](./public/screenshot-2.png)
+**3.** ![App Screenshot](./public/scheenshot-2.png)
